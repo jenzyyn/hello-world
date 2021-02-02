@@ -1,2 +1,2 @@
 # hello-world
-Intro repository
+Intro repository for Jenzyyn, a computer science student. 
